@@ -1,0 +1,18 @@
+.all-country{
+    display:flex;
+    float: left;
+}
+.country{
+    border: 1px solid lightgrey;
+    text-align: center;
+    width:200px;
+    height:380px;
+    margin: 10px;
+    padding:5px;
+}
+.country img{
+    width: 180px;
+    margin-left:10px ;
+    margin-top: 10px;
+    border: 1px solid lightgrey;
+}
